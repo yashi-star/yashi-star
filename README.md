@@ -1,6 +1,6 @@
 
 ## Hello there, I'm Yashi Pant 👋
-<!--
+
 ## 👨‍💻 About Me
 I'm a passionate **Computer Science Engineering student** at **Graphic Era Hill University, Dehradun**, focusing on **Web Development**, **Machine Learning**, and **Cryptography**. I enjoy solving complex problems and building innovative solutions.
 
@@ -56,4 +56,3 @@ A **React + Node.js** based blog platform that allows users to create, edit, and
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I once spent hours debugging a problem only to realize I was missing a semicolon.
--->
