@@ -6,7 +6,7 @@ I'm a passionate **Computer Science Engineering student** at **Graphic Era Hill 
 
 🔧 **Technologies I work with:**
 - **Languages**: Java, JavaScript, C++, SQL,Python.
-- **Web Development**: React, Next.js, HTML, CSS
+- **Web Development**: React, Next.js, HTML, CSS,Springboot
 - **Databases**: MySQL,Postgres.
 
 <p align="center">
