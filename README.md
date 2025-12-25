@@ -2,12 +2,12 @@
 ## Hello there, I'm Yashi Pant 👋
 
 ## 👨‍💻 About Me
-I'm a passionate **Computer Science Engineering student** at **Graphic Era Hill University, Dehradun**, focusing on **Web Development**, **Machine Learning**, and **Cryptography**. I enjoy solving complex problems and building innovative solutions.
+I'm a passionate **Computer Science Engineering student** at **Graphic Era Hill University, Dehradun**, focusing on **Web Development**, **Machine Learning**. I enjoy solving complex problems and building innovative solutions.
 
 🔧 **Technologies I work with:**
-- **Languages**: Python, JavaScript, C++, SQL,java
+- **Languages**: Java, JavaScript, C++, SQL,Python.
 - **Web Development**: React, Next.js, HTML, CSS
-- **Databases**: MySQL,Oracle,MongoDB
+- **Databases**: MySQL,Postgres.
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
